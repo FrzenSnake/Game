@@ -1,0 +1,110 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,userPanel_jpg,1_jpg,button_png,Dark_png,Exia_png,freedom_png,have_jpg,Kill_png,killMonsterButton_png,lightgun_png,player_png,stand_png,stand_json,run_png,run_json,complete_png,ground_png,wall_png,wall_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "userPanel_jpg",
+			"type": "image",
+			"url": "assets/userPanel.jpg"
+		},
+		{
+			"name": "1_jpg",
+			"type": "image",
+			"url": "assets/1.jpg"
+		},
+		{
+			"name": "button_png",
+			"type": "image",
+			"url": "assets/button.png"
+		},
+		{
+			"name": "Dark_png",
+			"type": "image",
+			"url": "assets/Dark.png"
+		},
+		{
+			"name": "Exia_png",
+			"type": "image",
+			"url": "assets/Exia.png"
+		},
+		{
+			"name": "freedom_png",
+			"type": "image",
+			"url": "assets/freedom.png"
+		},
+		{
+			"name": "have_jpg",
+			"type": "image",
+			"url": "assets/have.jpg"
+		},
+		{
+			"name": "Kill_png",
+			"type": "image",
+			"url": "assets/Kill.png"
+		},
+		{
+			"name": "killMonsterButton_png",
+			"type": "image",
+			"url": "assets/killMonsterButton.png"
+		},
+		{
+			"name": "lightgun_png",
+			"type": "image",
+			"url": "assets/lightgun.png"
+		},
+		{
+			"name": "player_png",
+			"type": "image",
+			"url": "assets/player.png"
+		},
+		{
+			"name": "stand_png",
+			"type": "image",
+			"url": "assets/stand.png"
+		},
+		{
+			"name": "stand_json",
+			"type": "json",
+			"url": "assets/stand.json"
+		},
+		{
+			"name": "run_png",
+			"type": "image",
+			"url": "assets/run.png"
+		},
+		{
+			"name": "run_json",
+			"type": "json",
+			"url": "assets/run.json"
+		},
+		{
+			"name": "complete_png",
+			"type": "image",
+			"url": "assets/complete.png"
+		},
+		{
+			"name": "ground_png",
+			"type": "image",
+			"url": "assets/ground.png"
+		},
+		{
+			"name": "wall_png",
+			"type": "image",
+			"url": "assets/wall.png"
+		},
+		{
+			"name": "wall_jpg",
+			"type": "image",
+			"url": "assets/wall.jpg"
+		}
+	]
+}
